@@ -1,8 +1,9 @@
+import MainLayout from '../layout/MainLayout'
 const profile = () => {
     return (
-        <div>
-            Profile
-        </div>
+        <MainLayout>
+
+        </MainLayout>
     )
 }
 export default profile

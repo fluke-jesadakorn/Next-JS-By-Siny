@@ -1,8 +1,9 @@
+import MainLayout from '../layout/MainLayout'
 const product = () => {
     return (
-        <div>
-            Product
-        </div>
+        <MainLayout>
+
+        </MainLayout>
     )
 }
 export default product
